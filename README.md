@@ -2,7 +2,7 @@
 
 SIGCH (Sistema Integrado de Gestão de Chamados) é uma aplicação web para abrir e
 acompanhar chamados de manutenção e suporte. Está em produção no Hospital
-Municipal de Pacatuba, no Ceará, desde julho de 2026.
+Municipal Raimundo Célio Rodrigues, em Pacatuba (CE), desde julho de 2026.
 
 O código é privado porque o sistema roda em ambiente hospitalar com dados reais.
 Este repositório explica o que o sistema faz e por que foi construído assim.
